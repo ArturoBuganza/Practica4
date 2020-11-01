@@ -56,14 +56,17 @@ El siguiente es para una secuencia de 2-bit (n = 2)
 Para esta práctica, reporta un screeshot de la demostración de cada uno de los problemas, así como adjuntando el código
 del problema principal, además de explicar la solución.
 
-Ejercicio 1:
+Ejercicio 1: 
+![Figure 1](./img/img1.PNG)
 
 Ejercicio 2:
+![Figure 2](./img/img2.PNG)
 
 Ejercicio 3:
+![Figure 3](./img/img3.PNG)
 
 Ejercicio 4:
-
+![Figure 4](./img/img4.PNG)
 
 ### File uploads
 En el repositorio de la práctica de github se adjuntará el código fuente (archivos .c) de cada uno de los problemas.
