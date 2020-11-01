@@ -56,16 +56,16 @@ El siguiente es para una secuencia de 2-bit (n = 2)
 Para esta práctica, reporta un screeshot de la demostración de cada uno de los problemas, así como adjuntando el código
 del problema principal, además de explicar la solución.
 
-Ejercicio 1: 
+Ejercicio 1: El primer ejercicio era encontrar el valor unico de un arreglo, se utilizo una función que como se muestra en el screenshot, con ayuda de ciclos for y con una variable a manera de flag mostraba cuando un número se repetía y seguia con el siguiente, asi hasta encontrar el valor que no se repite, el cuál es impreso en la pantalla de salida. </br>
 ![Figure 1](./img/img1.PNG)
 
-Ejercicio 2:
+Ejercicio 2: El segundo es el de las multiplicaciones y divisiones de dos números usando unicamente bitwise logic, para lo cual utilicé shift operations que multiplican el valor si son hacia la izquierda, y lo dividen si se hace hacia la derecha. Esto funciona porque recorre todos los bits, aumentando o disminuyendo el valor inicial. </br>
 ![Figure 2](./img/img2.PNG)
 
-Ejercicio 3:
+Ejercicio 3: Como ejercicio número tres tuvimos que encontrar el cuadrado de un numero sin multiplicaciones ni potencias, para esto se utilizo un ciclo for y un acumulador que sumaba el numero la cantidad de veces que se pusiera como numero mismo. Fué a mi parecer el más sencillo de los 4 ejercicios. </br>
 ![Figure 3](./img/img3.PNG)
 
-Ejercicio 4:
+Ejercicio 4: Para finalizar, el ejercicio 4 nos pedía imprimir la serie de Grey para lo cual creamos una función que es referenciada en el main. La n es nuestra entrada y entre más pongamos, más itera y va imprimiendo la seríe como se muestra en la demostración. </br>
 ![Figure 4](./img/img4.PNG)
 
 ### File uploads
@@ -82,4 +82,4 @@ Las capturas de pantalla se agregaron en la sección previa de **Reporte**.
 Youtube: https://youtu.be/9IvF-efEm8o
 
 ## Conclusion
-En esta sección, deberás añadir las conclusiones, sugerencias y/o problemas de las actividades de laboratorio. 
+Para concluir creo que esta practica es un buen primer acercamiento a conocer la programación en C para los que no estamos tan acostumbrados e inmersos en el mundo de la programación. Lo más dificil para mí fue encontrar un entorno amigable en el que me adaptara y comenzar a programar, por recomendación de un amigo ingeniero en sistemas opte por visual studio code y creo que fué una gran opción. Una vez que empezamos a programar todo fue volviendose más y más intuitivo, es cosa de practicar supongo. Las operaciones bitwise me parecen muy interesantes porque son las que menos memoria de nuestro microcontrolador gastan y por tanto las que mejor deberíamos de saber utilizar, lo que es más simple para nosotros como multiplicar o dividir para nuestro procesador puede ser más laborioso.
